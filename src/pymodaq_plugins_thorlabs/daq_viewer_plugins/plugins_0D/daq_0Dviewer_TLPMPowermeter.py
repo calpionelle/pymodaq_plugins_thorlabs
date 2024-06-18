@@ -84,7 +84,7 @@ class DAQ_0DViewer_TLPMPowermeter(DAQ_Viewer_base):
             self.status.initialized = False
             return self.status
 
-
+# A useless comment
     def commit_settings(self, param):
         """
         """
